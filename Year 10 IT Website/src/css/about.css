@@ -1,0 +1,61 @@
+ *{
+     font-family: comic sans ms;
+
+}
+
+ body {
+     background-color: aliceblue;
+     text-align: center;
+     margin: 0px;
+     
+
+ }
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2018/02/12/874f5eb9-cb62-431e-aca7-49c5b430d8b6/csgo-nuke-rework");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 30px;
+  margin: 0px;
+  height: 450px;
+  width: auto;
+}  
+
+
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #333;
+}
+ li {
+     float: left;
+}
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+ li a:hover {
+     background-color: #111;
+}
+ #navcontainer ul {
+     list-style-type: none;
+}
+
+.scomo-coal{
+    width: 400px;
+    height: 400px;
+}
+
+.abouttxt {
+    margin: 40px;
+}
+ 

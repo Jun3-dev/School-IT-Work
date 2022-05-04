@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://media0.giphy.com/media/XGU4CyI27f5xBWGJlY/giphy.gif?cid=790b76119e6af963b582985dbadf28efd9951fd82212cbab&rid=giphy.gif&ct=g');
+    background-size: cover;
+    text-align: center;
+
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+
+h1 {
+    font-family: Comic sans ms;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 400px;
+}
